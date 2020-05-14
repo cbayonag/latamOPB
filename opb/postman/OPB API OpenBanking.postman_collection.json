@@ -308,19 +308,19 @@
 		{
 			"id": "1b4b7729-a6e9-4f26-b01c-2866e0052113",
 			"key": "EDGEGW1_IP",
-			"value": "edgegw1-api.foobz.com.au",
+			"value": "edgegw1-api.f5.local",
 			"type": "string"
 		},
 		{
 			"id": "efcd58ff-cfac-4171-a3f2-c42ad3693492",
 			"key": "MICROGWA_IP",
-			"value": "microgw-a.foobz.com.au",
+			"value": "microgw-a.f5.local",
 			"type": "string"
 		},
 		{
 			"id": "0701501d-7053-48ce-9206-4d38c08dc108",
 			"key": "EDGEGW2_IP",
-			"value": "edgegw2-api.foobz.com.au",
+			"value": "edgegw2-api.f5.local",
 			"type": "string"
 		},
 		{
@@ -332,7 +332,7 @@
 		{
 			"id": "7f2401c5-edaf-4cd5-930a-b1b97f3ec392",
 			"key": "MICROGWB_IP",
-			"value": "microgw-b.foobz.com.au",
+			"value": "microgw-b.f5.local",
 			"type": "string"
 		},
 		{
@@ -344,13 +344,13 @@
 		{
 			"id": "e15c4576-44a3-4e22-926e-640848cebc1c",
 			"key": "MICROGWC_IP",
-			"value": "microgw-c.foobz.com.au",
+			"value": "microgw-c.f5,local",
 			"type": "string"
 		},
 		{
 			"id": "b6105c10-6032-43fe-99e2-43e5e076cb36",
 			"key": "MICROGWD_IP",
-			"value": "microgw-d.foobz.com.au",
+			"value": "microgw-d.f5.local",
 			"type": "string"
 		},
 		{
